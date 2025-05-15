@@ -1,4 +1,4 @@
-Plugin Vindi para Gravity Forms (WordPress)
+<h1>Plugin Vindi para Gravity Forms (WordPress)</h1>
 
 Este plugin permite integrar formulários do Gravity Forms com a plataforma de pagamentos Vindi, utilizando conexão via API REST.
 
