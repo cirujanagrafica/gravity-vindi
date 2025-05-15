@@ -2,7 +2,7 @@
 
 Este plugin permite integrar formulários do Gravity Forms com a plataforma de pagamentos Vindi, utilizando conexão via API REST.
 
-⚙️ Configuração
+<b>⚙️ Configuração</b>
 
 Na página de configurações do plugin, é necessário informar:
 	•	URL da API da Vindi
@@ -10,7 +10,7 @@ Na página de configurações do plugin, é necessário informar:
 
 Essas credenciais serão utilizadas para autenticar as requisições ao ambiente da Vindi.
 
-📤 Envio de dados ao Checkout
+<b>📤 Envio de dados ao Checkout</b>
 
 O plugin captura os seguintes campos do formulário e os envia automaticamente ao checkout da Vindi:
 	•	Nome
@@ -20,16 +20,16 @@ O plugin captura os seguintes campos do formulário e os envia automaticamente a
 
 🔧 Os IDs dos campos devem ser informados diretamente no código do plugin, conforme a estrutura do formulário.
 
-🔄 Campos adicionais
+<b>🔄 Campos adicionais</b>
 
 Os parâmetros telefone e endereço não estão ativos por padrão, mas o código do plugin pode ser facilmente adaptado para incluí-los, caso necessário.
 
-📦 Instalação
+<b>📦 Instalação</b>
 	1.	Faça o upload da pasta do plugin no diretório /wp-content/plugins/.
 	2.	Ative o plugin no painel do WordPress.
 	3.	Acesse o menu de configurações do plugin e insira suas credenciais da Vindi.
 	4.	Configure o formulário do Gravity Forms com os campos necessários.
 
-🧪 Testes
+<b>🧪 Testes</b>
 
 Recomenda-se utilizar o ambiente de sandbox da Vindi para testes antes de ir para produção.
